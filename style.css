@@ -1,0 +1,28 @@
+.main{
+    border: 2px solid gray;
+    width: 350px;
+    background-color: gray;
+    margin: 0 auto;
+    height: 350px;
+  
+}
+
+.val{
+    width: 97%;
+    height: 45px;
+    background-color: gray; 
+   
+}
+
+.clearbtn{
+    width: 100.5%;
+    height: 39px;
+    background-color: gray; 
+}
+
+.btn{
+    width: 84.5px;
+    height: 65px;
+    background-color: gray;
+   
+}
